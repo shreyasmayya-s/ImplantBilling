@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdQyLcRDKD0R0DBhy7nxRQq1XZK+/gcjsQli2mcGg36i76LqdjNkZpRP+cbUMPptxXsGEe0oB6Xup4z0oy9w0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Problem Statement\\ImplantsBillingService\\ImplantsBillingService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shreyas.mayya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\shreyas.mayya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\shreyas.mayya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\shreyas.mayya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\shreyas.mayya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\shreyas.mayya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
